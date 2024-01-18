@@ -1,5 +1,4 @@
 import "./App.css";
-
 import Home from "../src/pages/Home";
 import About from "../src/pages/About";
 import SignIn from "../src/pages/SignIn";
